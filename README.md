@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm 후산</h1>
 <h3 align="center">Web 개발자</h3>
 
-- 📝 I regularly write articles on [https://metablog.github.io/](https://metablog.github.io/)
+- 📝  [https://metablog.github.io/](https://metablog.github.io/)
 
-- 📫 How to reach me **khu10735@naver.com**
+- 📫  **khu10735@naver.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
