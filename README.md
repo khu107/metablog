@@ -1,10 +1,7 @@
 <h1 align="center">Hi 👋, I'm  후산</h1>
 <h3 align="center"> Web 개발자 </h3>
 
-
-- 📫  **khu10735@naver.com**
-
-<h3 align="left">Connect with me: </h3>
+<h3 align="left">Connect with me: khu10735@naver.com </h3>
 <p align="left">
 </p>
 
